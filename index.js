@@ -5,3 +5,6 @@ var f_initBranch = function(){
 var f2_initBranch = function(){
     console.log('f2_initBranch')
 }
+var donef2_initBranch = function(){
+    console.log('donef2')
+}
